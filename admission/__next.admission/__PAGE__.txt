@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[34823,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/fddc79f261ddf18d.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+3:I[29586,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/fddc79f261ddf18d.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/cc7264358cf05a04.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"gnDHkE3vuN3ByfA0Jtucz","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"title":"Admission","imageDesktop":"/banner/addmission-banner.jpg","imageMobile":"/banner/addmission-banner-mob.jpg"}],["$","$L3",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/fddc79f261ddf18d.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/a1748efede69adf1.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

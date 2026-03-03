@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[34823,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/36602fe344dfbd53.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+3:I[47955,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/36602fe344dfbd53.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+4:I[56483,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/36602fe344dfbd53.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+5:I[64257,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/36602fe344dfbd53.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+6:I[51299,["/_next/static/chunks/7f1e830e0c6617a3.js","/_next/static/chunks/183a51bf7b3fa6ba.js","/_next/static/chunks/226ece2f8f47ea6d.js","/_next/static/chunks/36602fe344dfbd53.js","/_next/static/chunks/a1748efede69adf1.js"],"default"]
+7:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/cc7264358cf05a04.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+0:{"buildId":"gnDHkE3vuN3ByfA0Jtucz","rsc":["$","$1","c",{"children":[[["$","$L2",null,{"title":"Sports Academy","imageDesktop":"/banner/sports-banner.jpg","imageMobile":"/banner/sports-banner-mob.jpg"}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/36602fe344dfbd53.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/a1748efede69adf1.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
+9:null
